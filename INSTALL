@@ -1,0 +1,9 @@
+Building Cakecoin
+
+See doc/readme-qt.rst for instructions on building Cakecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cakecoin.
+
+See doc/build-*.txt for instructions on building cakecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cakecoin.
