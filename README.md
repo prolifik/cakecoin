@@ -1,20 +1,12 @@
 Cakecoin integration/staging tree
 ======================================================
 
-V2.0: Stop using KGW at block 42000 and switch to DIGISHIELD 
-
-======================================================
-
-v1.2 Beta (Do not use for Production!)
-
-======================================================
-
-v1.0 Initial Release, initiate KGW at block 1000
+v1.0 Initial Release
 
 ======================================================
 
 
-http://cakecoin.eu
+http://cakecoin.info
 
 Copyright (c) 2014 The Cakecoin Developers
 
